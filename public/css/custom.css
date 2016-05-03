@@ -1,0 +1,33 @@
+.modal-lock{
+	opacity:0.7;
+	background-color:#000;
+	height: 100%;
+	width:100%;
+	display: block;
+	z-index:10;
+	position:absolute;
+	top:0;
+	left:0;
+
+}
+.modal-lock hidden{
+	display: none;
+}
+
+.loader-box{
+	opacity:0.7;
+     background-color: #eaeaec;
+	text-align:center;
+	display:block;
+	margin:35% 35%;
+	
+}
+
+.loader-box p{
+
+	 color: #000;
+	 margin-top: 5px;
+	 text-transform: none;
+	 text-align: center;
+	 font-weight: bold;
+}
